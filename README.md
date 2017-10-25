@@ -1,0 +1,1 @@
+bedore-alpine-mecab
